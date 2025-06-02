@@ -7,7 +7,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 
 ---
 
-## 🧠 ALGORITHM
+## 🧠 ALGORITHM  
 
 1. **Import Libraries**: Import the `pandas` library.
 2. **Create First DataFrame**: Use a dictionary to create `student_data1`.
